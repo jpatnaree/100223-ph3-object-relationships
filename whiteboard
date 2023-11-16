@@ -1,0 +1,39 @@
+user - name         Post
+                    Post
+                    Post
+                    Post
+                    Post
+
+User --< Post
+
+User has many Posts
+
+Post belongs to a User
+
+****One to many****
+
+...examples...
+
+King --< Dukes --< Barons --< Peasants
+
+Teacher --< Students
+
+Company --< Employee
+
+--------------
+
+Single Source of Truth
+One place tells you what the relationship was
+Relationship is stored in the single place
+
+
+////////////////////////
+****Many to Many****
+
+Doctor      --<     Appointment    >--       Patient
+each individual appointment is track which doctor or patient its belongs to
+
+Student --< Enrollment >-- Course
+
+Author --< AuthorBook >-- Book #AuthorBook is what you use when you cant find the name join 2 words together
+

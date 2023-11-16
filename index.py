@@ -6,3 +6,4 @@ from classes.models import Doctor, Patient
 
 # HARD MODE #
 from classes.models import Student, Instructor, Course, Assignment, School
+

@@ -17,3 +17,11 @@
 - Come up with a modeling domain based on Amazon. How would the relationships between Users, Products, and Orders look?
 
 - Come up with a modeling domain based on Twitter. How would the relationships between Users, Tweets, and Comments work? As a bonus, how would a User follow another User?
+
+Chett's version
+![Alt text](examples-1.png)
+
+
+My version
+![Alt text](image.png)
+
